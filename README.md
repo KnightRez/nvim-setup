@@ -1,1 +1,2 @@
-# nvim-setup
+# init.lua
+Mostly from The Primeagen
